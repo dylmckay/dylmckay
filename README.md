@@ -1,6 +1,6 @@
 ### Backend Engineer · Python / FastAPI
 
-M.S. Software Engineering (WGU), based in Indiana. Currently open to junior/entry-level backend roles — remote, EST/CST preferred.
+M.S. Software Engineering (WGU), based in Indiana. Currently open to junior/entry-level backend roles — remote, EST preferred.
 
 I care about clean domain models, security that holds up to scrutiny, and READMEs that respect the reader's time.
 
