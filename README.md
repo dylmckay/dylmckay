@@ -1,6 +1,6 @@
 ### Backend Engineer · Python / FastAPI
 
-M.S. Software Engineering (WGU), based in Indiana. Currently open to junior/entry-level backend roles — remote, EST preferred.
+M.S. Software Engineering (WGU), based in Indiana. Currently open to junior/entry-level backend roles - remote, EST preferred.
 
 I care about clean domain models, software that remains secure, and APIs that put the user first.
 
@@ -8,11 +8,11 @@ I care about clean domain models, software that remains secure, and APIs that pu
 
 ### Featured Projects
 
-**[Static](https://github.com/dylanmckay04/Static)** — Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests.
+**[Static](https://github.com/dylanmckay04/Static)** - Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests.
 
-**[DevTrack](https://github.com/dylanmckay04/DevTrack)** — Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
+**[DevTrack](https://github.com/dylanmckay04/DevTrack)** - Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
 
-**[FadingVisionsAPI](https://github.com/dylanmckay04/FadingVisionsAPI)** — Aesthetic-curation photo gallery built on the Unsplash API. FastAPI + React, PostgreSQL with a many-to-many join model, JWT auth. Live on Railway + Vercel.
+**[FadingVisionsAPI](https://github.com/dylanmckay04/FadingVisionsAPI)** - Aesthetic-curation photo gallery built on the Unsplash API. FastAPI + React, PostgreSQL with a many-to-many join model, JWT auth. Live on Railway + Vercel.
 
 ---
 
