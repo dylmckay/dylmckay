@@ -18,7 +18,7 @@ I care about software that remains secure, clean domain models, and APIs that pu
 
 ### Stack
 
-`Python` · `FastAPI` · `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `TypeScript` · `React` · `Prometheus & Grafana`
+`Python` · `FastAPI` · `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `TypeScript` · `React` · `Prometheus` · `Grafana`
 
 Currently exploring: event-driven architecture, and domain-driven design.
 
