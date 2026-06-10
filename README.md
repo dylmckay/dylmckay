@@ -2,7 +2,7 @@
 
 M.S. Software Engineering (WGU), based in Indiana. Currently open to junior/entry-level backend roles - remote, EST preferred.
 
-I care about clean domain models, software that remains secure, and APIs that put the user first.
+I care about software that remains secure, clean domain models, and APIs that put the user first.
 
 ---
 
