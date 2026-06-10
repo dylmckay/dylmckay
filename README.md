@@ -8,7 +8,7 @@ I care about clean domain models, software that remains secure, and APIs that pu
 
 ### Featured Projects
 
-**[Static](https://github.com/dylanmckay04/Static)** - Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests.
+**[Static](https://github.com/dylanmckay04/Static)** - Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests, observability using Prometheus & Grafana.
 
 **[DevTrack](https://github.com/dylanmckay04/DevTrack)** - Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
 
@@ -18,9 +18,9 @@ I care about clean domain models, software that remains secure, and APIs that pu
 
 ### Stack
 
-`Python` · `FastAPI` · `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `TypeScript` · `React`
+`Python` · `FastAPI` · `SQLAlchemy` · `Alembic` · `Pydantic` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `GitHub Actions` · `TypeScript` · `React` · `Prometheus & Grafana`
 
-Currently exploring: observability with Prometheus + Grafana, event-driven architecture, and domain-driven design.
+Currently exploring: event-driven architecture, and domain-driven design.
 
 ---
 
