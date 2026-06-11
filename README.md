@@ -12,8 +12,6 @@ I care about software that remains secure, clean domain models, and APIs that pu
 
 **[DevTrack](https://github.com/dylanmckay04/DevTrack)** - Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
 
-**[FadingVisionsAPI](https://github.com/dylanmckay04/FadingVisionsAPI)** - Aesthetic-curation photo gallery built on the Unsplash API. FastAPI + React, PostgreSQL with a many-to-many join model, JWT auth. Live on Railway + Vercel.
-
 ---
 
 ### Stack
