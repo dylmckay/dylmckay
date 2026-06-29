@@ -8,9 +8,9 @@ I care about software that remains secure, clean domain models, and APIs that pu
 
 ### Featured Projects
 
-**[Static](https://github.com/dylanmckay04/Static)** - Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests, observability using Prometheus & Grafana.
+**[Static](https://github.com/dylmckay/Static)** - Real-time anonymous chat platform. FastAPI + React/TypeScript, WebSockets over Redis pub/sub for multi-worker fan-out, three-tier JWT auth (access / socket / cipher), GitHub OAuth with account linking, Lua-script rate limiting in Redis, testcontainers-backed integration tests, observability using Prometheus & Grafana.
 
-**[DevTrack](https://github.com/dylanmckay04/DevTrack)** - Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
+**[DevTrack](https://github.com/dylmckay/DevTrack)** - Full-stack Kanban job tracker. FastAPI, PostgreSQL, Redis, Celery for scheduled email reminders, Cloudflare R2 document storage with presigned URLs, GitHub + Google OAuth, server-authoritative WebSocket board sync, GitHub Actions CI against real Postgres/Redis service containers.
 
 ---
 
@@ -24,6 +24,6 @@ Currently exploring: event-driven architecture, and domain-driven design.
 
 ### Elsewhere
 
-- **Email** — dylanmckay2004@gmail.com
-- **LinkedIn** — [in/dylanmckay04](https://linkedin.com/in/dylanmckay04)
-- **Portfolio** — [dylanmckay04.github.io/personalsite](https://dylanmckay04.github.io/personalsite/)
+- **Email** — dylmckaydev@gmail.com
+- **LinkedIn** — [in/dylmckay](https://linkedin.com/in/dylmckay)
+- **Portfolio** — [dylmckay.github.io/personalsite](https://dylmckay.github.io/personalsite/)
